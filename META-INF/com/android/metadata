@@ -1,0 +1,3 @@
+post-build=lge/lge_bproj/bproj_262-XXX:2.3.4/GRJ22/LG-P970-V20o.47B5196A:user/release-keys
+post-timestamp=1341067255
+pre-device=p970
